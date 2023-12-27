@@ -1,0 +1,30 @@
+C:\Users\ngoch\Desktop\caro-gomoku-ai-master\VCaro\bin\Debug\VCaro.exe.config
+C:\Users\ngoch\Desktop\caro-gomoku-ai-master\VCaro\bin\Debug\VCaro.exe
+C:\Users\ngoch\Desktop\caro-gomoku-ai-master\VCaro\bin\Debug\VCaro.pdb
+C:\Users\ngoch\Desktop\caro-gomoku-ai-master\VCaro\obj\Debug\VCaro.csprojAssemblyReference.cache
+C:\Users\ngoch\Desktop\caro-gomoku-ai-master\VCaro\obj\Debug\VCaro.FVCaro.resources
+C:\Users\ngoch\Desktop\caro-gomoku-ai-master\VCaro\obj\Debug\VCaro.Properties.Resources.resources
+C:\Users\ngoch\Desktop\caro-gomoku-ai-master\VCaro\obj\Debug\VCaro.csproj.GenerateResource.cache
+C:\Users\ngoch\Desktop\caro-gomoku-ai-master\VCaro\obj\Debug\VCaro.csproj.CoreCompileInputs.cache
+C:\Users\ngoch\Desktop\caro-gomoku-ai-master\VCaro\obj\Debug\VCaro.exe
+C:\Users\ngoch\Desktop\caro-gomoku-ai-master\VCaro\obj\Debug\VCaro.pdb
+C:\Users\ngoch\Desktop\btl ai\caro-gomoku-ai-master\VCaro\bin\Debug\VCaro.exe.config
+C:\Users\ngoch\Desktop\btl ai\caro-gomoku-ai-master\VCaro\bin\Debug\VCaro.exe
+C:\Users\ngoch\Desktop\btl ai\caro-gomoku-ai-master\VCaro\bin\Debug\VCaro.pdb
+C:\Users\ngoch\Desktop\btl ai\caro-gomoku-ai-master\VCaro\obj\Debug\VCaro.csprojAssemblyReference.cache
+C:\Users\ngoch\Desktop\btl ai\caro-gomoku-ai-master\VCaro\obj\Debug\VCaro.FVCaro.resources
+C:\Users\ngoch\Desktop\btl ai\caro-gomoku-ai-master\VCaro\obj\Debug\VCaro.Properties.Resources.resources
+C:\Users\ngoch\Desktop\btl ai\caro-gomoku-ai-master\VCaro\obj\Debug\VCaro.csproj.GenerateResource.cache
+C:\Users\ngoch\Desktop\btl ai\caro-gomoku-ai-master\VCaro\obj\Debug\VCaro.csproj.CoreCompileInputs.cache
+C:\Users\ngoch\Desktop\btl ai\caro-gomoku-ai-master\VCaro\obj\Debug\VCaro.exe
+C:\Users\ngoch\Desktop\btl ai\caro-gomoku-ai-master\VCaro\obj\Debug\VCaro.pdb
+C:\Users\ngoch\Desktop\co caro tri tue nhan tao\caro-gomoku-ai-master\VCaro\bin\Debug\VCaro.exe.config
+C:\Users\ngoch\Desktop\co caro tri tue nhan tao\caro-gomoku-ai-master\VCaro\bin\Debug\VCaro.exe
+C:\Users\ngoch\Desktop\co caro tri tue nhan tao\caro-gomoku-ai-master\VCaro\bin\Debug\VCaro.pdb
+C:\Users\ngoch\Desktop\co caro tri tue nhan tao\caro-gomoku-ai-master\VCaro\obj\Debug\VCaro.FVCaro.resources
+C:\Users\ngoch\Desktop\co caro tri tue nhan tao\caro-gomoku-ai-master\VCaro\obj\Debug\VCaro.Properties.Resources.resources
+C:\Users\ngoch\Desktop\co caro tri tue nhan tao\caro-gomoku-ai-master\VCaro\obj\Debug\VCaro.csproj.GenerateResource.cache
+C:\Users\ngoch\Desktop\co caro tri tue nhan tao\caro-gomoku-ai-master\VCaro\obj\Debug\VCaro.csproj.CoreCompileInputs.cache
+C:\Users\ngoch\Desktop\co caro tri tue nhan tao\caro-gomoku-ai-master\VCaro\obj\Debug\VCaro.exe
+C:\Users\ngoch\Desktop\co caro tri tue nhan tao\caro-gomoku-ai-master\VCaro\obj\Debug\VCaro.pdb
+C:\Users\ngoch\Desktop\co caro tri tue nhan tao\caro-gomoku-ai-master\VCaro\obj\Debug\VCaro.csprojAssemblyReference.cache

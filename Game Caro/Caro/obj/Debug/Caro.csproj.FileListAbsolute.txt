@@ -1,0 +1,50 @@
+C:\Users\ngoch\Desktop\co caro tri tue nhan tao\caro-gomoku-ai-master\Caro\bin\Debug\VCaro.exe.config
+C:\Users\ngoch\Desktop\co caro tri tue nhan tao\caro-gomoku-ai-master\Caro\bin\Debug\VCaro.exe
+C:\Users\ngoch\Desktop\co caro tri tue nhan tao\caro-gomoku-ai-master\Caro\bin\Debug\VCaro.pdb
+C:\Users\ngoch\Desktop\co caro tri tue nhan tao\caro-gomoku-ai-master\Caro\obj\Debug\VCaro.FVCaro.resources
+C:\Users\ngoch\Desktop\co caro tri tue nhan tao\caro-gomoku-ai-master\Caro\obj\Debug\VCaro.Properties.Resources.resources
+C:\Users\ngoch\Desktop\co caro tri tue nhan tao\caro-gomoku-ai-master\Caro\obj\Debug\Caro.csproj.GenerateResource.cache
+C:\Users\ngoch\Desktop\co caro tri tue nhan tao\caro-gomoku-ai-master\Caro\obj\Debug\Caro.csproj.CoreCompileInputs.cache
+C:\Users\ngoch\Desktop\co caro tri tue nhan tao\caro-gomoku-ai-master\Caro\obj\Debug\VCaro.exe
+C:\Users\ngoch\Desktop\co caro tri tue nhan tao\caro-gomoku-ai-master\Caro\obj\Debug\VCaro.pdb
+C:\Users\ngoch\Desktop\Game Caro\Caro\obj\Debug\Caro.csprojAssemblyReference.cache
+C:\Users\ngoch\Desktop\Game Caro\Caro\obj\Debug\VCaro.FVCaro.resources
+C:\Users\ngoch\Desktop\Game Caro\Caro\obj\Debug\VCaro.Properties.Resources.resources
+C:\Users\ngoch\Desktop\Game Caro\Caro\obj\Debug\Caro.csproj.GenerateResource.cache
+C:\Users\ngoch\Desktop\Game Caro\Caro\obj\Debug\Caro.csproj.CoreCompileInputs.cache
+C:\Users\ngoch\Desktop\Game Caro\Caro\obj\Debug\VCaro.exe
+C:\Users\ngoch\Desktop\Game Caro\Caro\obj\Debug\VCaro.pdb
+C:\Users\ngoch\Desktop\Game Caro\Caro\bin\Debug\VCaro.exe.config
+C:\Users\ngoch\Desktop\Game Caro\Caro\bin\Debug\VCaro.exe
+C:\Users\ngoch\Desktop\Game Caro\Caro\bin\Debug\VCaro.pdb
+C:\Users\long9\OneDrive\Máy tính\5thSemester\Trí Tuệ Nhân Tạo-20230619T092254Z-001\Trí Tuệ Nhân Tạo\Game Caro\Game Caro\Caro\bin\Debug\VCaro.exe.config
+C:\Users\long9\OneDrive\Máy tính\5thSemester\Trí Tuệ Nhân Tạo-20230619T092254Z-001\Trí Tuệ Nhân Tạo\Game Caro\Game Caro\Caro\bin\Debug\VCaro.exe
+C:\Users\long9\OneDrive\Máy tính\5thSemester\Trí Tuệ Nhân Tạo-20230619T092254Z-001\Trí Tuệ Nhân Tạo\Game Caro\Game Caro\Caro\bin\Debug\VCaro.pdb
+C:\Users\long9\OneDrive\Máy tính\5thSemester\Trí Tuệ Nhân Tạo-20230619T092254Z-001\Trí Tuệ Nhân Tạo\Game Caro\Game Caro\Caro\obj\Debug\Caro.csproj.AssemblyReference.cache
+C:\Users\long9\OneDrive\Máy tính\5thSemester\Trí Tuệ Nhân Tạo-20230619T092254Z-001\Trí Tuệ Nhân Tạo\Game Caro\Game Caro\Caro\obj\Debug\VCaro.FVCaro.resources
+C:\Users\long9\OneDrive\Máy tính\5thSemester\Trí Tuệ Nhân Tạo-20230619T092254Z-001\Trí Tuệ Nhân Tạo\Game Caro\Game Caro\Caro\obj\Debug\VCaro.Properties.Resources.resources
+C:\Users\long9\OneDrive\Máy tính\5thSemester\Trí Tuệ Nhân Tạo-20230619T092254Z-001\Trí Tuệ Nhân Tạo\Game Caro\Game Caro\Caro\obj\Debug\Caro.csproj.GenerateResource.cache
+C:\Users\long9\OneDrive\Máy tính\5thSemester\Trí Tuệ Nhân Tạo-20230619T092254Z-001\Trí Tuệ Nhân Tạo\Game Caro\Game Caro\Caro\obj\Debug\Caro.csproj.CoreCompileInputs.cache
+C:\Users\long9\OneDrive\Máy tính\5thSemester\Trí Tuệ Nhân Tạo-20230619T092254Z-001\Trí Tuệ Nhân Tạo\Game Caro\Game Caro\Caro\obj\Debug\VCaro.exe
+C:\Users\long9\OneDrive\Máy tính\5thSemester\Trí Tuệ Nhân Tạo-20230619T092254Z-001\Trí Tuệ Nhân Tạo\Game Caro\Game Caro\Caro\obj\Debug\VCaro.pdb
+H:\Tài liệu học\Trí tuệ nhân tạo\Game Caro\Caro\bin\Debug\VCaro.exe.config
+H:\Tài liệu học\Trí tuệ nhân tạo\Game Caro\Caro\bin\Debug\VCaro.exe
+H:\Tài liệu học\Trí tuệ nhân tạo\Game Caro\Caro\bin\Debug\VCaro.pdb
+H:\Tài liệu học\Trí tuệ nhân tạo\Game Caro\Caro\obj\Debug\Caro.csproj.AssemblyReference.cache
+H:\Tài liệu học\Trí tuệ nhân tạo\Game Caro\Caro\obj\Debug\Caro.csproj.SuggestedBindingRedirects.cache
+H:\Tài liệu học\Trí tuệ nhân tạo\Game Caro\Caro\obj\Debug\VCaro.FVCaro.resources
+H:\Tài liệu học\Trí tuệ nhân tạo\Game Caro\Caro\obj\Debug\VCaro.Properties.Resources.resources
+H:\Tài liệu học\Trí tuệ nhân tạo\Game Caro\Caro\obj\Debug\Caro.csproj.GenerateResource.cache
+H:\Tài liệu học\Trí tuệ nhân tạo\Game Caro\Caro\obj\Debug\Caro.csproj.CoreCompileInputs.cache
+H:\Tài liệu học\Trí tuệ nhân tạo\Game Caro\Caro\obj\Debug\VCaro.exe
+H:\Tài liệu học\Trí tuệ nhân tạo\Game Caro\Caro\obj\Debug\VCaro.pdb
+C:\Users\Tran Duc Long\OneDrive\Máy tính\5thSemester\Game Caro\Game Caro\Caro\bin\Debug\VCaro.exe.config
+C:\Users\Tran Duc Long\OneDrive\Máy tính\5thSemester\Game Caro\Game Caro\Caro\bin\Debug\VCaro.exe
+C:\Users\Tran Duc Long\OneDrive\Máy tính\5thSemester\Game Caro\Game Caro\Caro\bin\Debug\VCaro.pdb
+C:\Users\Tran Duc Long\OneDrive\Máy tính\5thSemester\Game Caro\Game Caro\Caro\obj\Debug\Caro.csproj.AssemblyReference.cache
+C:\Users\Tran Duc Long\OneDrive\Máy tính\5thSemester\Game Caro\Game Caro\Caro\obj\Debug\VCaro.FVCaro.resources
+C:\Users\Tran Duc Long\OneDrive\Máy tính\5thSemester\Game Caro\Game Caro\Caro\obj\Debug\VCaro.Properties.Resources.resources
+C:\Users\Tran Duc Long\OneDrive\Máy tính\5thSemester\Game Caro\Game Caro\Caro\obj\Debug\Caro.csproj.GenerateResource.cache
+C:\Users\Tran Duc Long\OneDrive\Máy tính\5thSemester\Game Caro\Game Caro\Caro\obj\Debug\Caro.csproj.CoreCompileInputs.cache
+C:\Users\Tran Duc Long\OneDrive\Máy tính\5thSemester\Game Caro\Game Caro\Caro\obj\Debug\VCaro.exe
+C:\Users\Tran Duc Long\OneDrive\Máy tính\5thSemester\Game Caro\Game Caro\Caro\obj\Debug\VCaro.pdb
